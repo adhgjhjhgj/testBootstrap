@@ -18,7 +18,7 @@ body {
 /* Increase the font size of the heading */
 .header h1 {
   font-size: 60px;
-} /* 2) změna velikosti na 60/*
+} /* OTÁZKA:2 změna velikosti na 60/*
 
 /* Sticky navbar - toggles between relative and fixed, depending on the scroll position. It is positioned relative until a given offset position is met in the viewport - then it "sticks" in place (like position:fixed). The sticky value is not supported in IE or Edge 15 and earlier versions. However, for these versions the navbar will inherit default position */
 .navbar {
@@ -64,9 +64,10 @@ body {
 /* Sidebar/left column */
 .side {
   flex: 30%;
-  background-color: #f1f1f1;
+  background-color: #131111;
   padding: 20px;
-}
+
+} /* OTÁZKA 6: změna barvy pozadí na černou
 
 /* Main column */
 .main {   
@@ -86,7 +87,7 @@ body {
   text-align: center;
   font-size: 14px;
   color: #15b92b;
-} /* OZÁZKA 4: změna barvy na zelenou
+} /* OTÁZKA 4: změna barvy na zelenou
 
 /* Basic styles for the post */
 .post {
@@ -100,11 +101,11 @@ body {
 .post h2 {
   margin-top: 0;
   margin-bottom: 10px;
-} /*1) zmensila jsem obrazek/*
+} /* OTÁZKA:1 zmensila jsem obrazek/*
 
 /* Styles for the post image */
 img {
-  max-width: 50%;
+  max-width: 40%;
 }
 
 /* Responsive layout - when the screen is less than 700px wide, make the two columns stack on top of each other instead of next to each other */
