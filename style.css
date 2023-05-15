@@ -34,9 +34,9 @@ body {
   display: block;
   color: white;
   text-align: center;
-  padding: 14px 20px;
+  padding: 20px 40px;
   text-decoration: none;
-}
+} /* OTÁZKA:8 zvětšeni navigačního pole */
 
 /* Right-aligned link */
 .navbar a.right {
@@ -67,7 +67,7 @@ body {
   background-color: #131111;
   padding: 20px;
 
-} /* OTÁZKA 6: změna barvy pozadí na černou
+} /* OTÁZKA 6: změna barvy pozadí na černou /*
 
 /* Main column */
 .main {   
@@ -87,7 +87,7 @@ body {
   text-align: center;
   font-size: 14px;
   color: #15b92b;
-} /* OTÁZKA 4: změna barvy na zelenou
+} /* OTÁZKA 4: změna barvy na zelenou /*
 
 /* Basic styles for the post */
 .post {
@@ -95,7 +95,7 @@ body {
   padding: 20px;
   background-color: #fff;
   border: 1px solid rgb(204, 7, 7);
-} /* 3) změna barvy na červenou */
+} /* OTÁZKA:3 změna barvy na červenou */
 
 /* Styles for the post heading */
 .post h2 {
